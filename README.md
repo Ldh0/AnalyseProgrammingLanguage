@@ -1,2 +1,2 @@
 # AnalyseProgrammingLanguage
-Use different styles to solve the same problem
+Use different code styles to solve the same problem
